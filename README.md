@@ -1,13 +1,19 @@
-# Ecuaciones Diferenciales No Lineales — Segundo cuatrimestre de 2016
+# Ecuaciones Diferenciales No Lineales
 
-## Prácticas
+Ecuaciones diferenciales no-lineales, primer cuatrimestre de 2013
 
-- [Práctica 3 - Métodos variacionales](ejercicios3%20-%20metodos%20var.pdf)
-- [Práctica 4 - Métodos no variacionales](ejercicios4%20-%20metodos%20no%20var.pdf)
-- [Práctica 1 - Espacios de Sobolev](practica1%20-%20Sobolev.pdf)
-- [Práctica 5 - problemas sin compacidad.](practica%20CCP.pdf)
-- [Práctica 2 - Ecuaciones lineales (existencia, regularidad, principio del máximo, autovalores)](practica%20lineal.pdf)
+### Novedades
 
-## Página original
+- Página en construcción!!!!
 
-[Página de la cursada en el CMS](https://cms.dm.uba.ar/academico/materias/2docuat2016/ecuaciones_diferenciales_no_lineales)
+---
+
+### Horario y Aulas
+
+|  |  |  |  |  |
+| --- | --- | --- | --- | --- |
+| Teórica | Ma - Mie: 14 a 16 | [Nicolas Saintier](mailto:nsaintie@dm.uba.ar) | Aula: 13 (martes) 12 (miercoles) | Pab: I |
+
+|  |  |  |  |  |
+| --- | --- | --- | --- | --- |
+| Práctica | Ma - Mie: 13 a 14 | [Nicolas Saintier](mailto:nsaintie@dm.uba.ar) | Aula:13 (martes) 12 (miercoles) | Pab: I |
